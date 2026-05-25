@@ -1,0 +1,40 @@
+🟧 TASK Debugging: Can You Vote?
+
+Your political party's eligibility checker has some serious bugs.
+Can you fix them?
+
+--------------------------------------------------------
+
+There are at least **8 bugs** in this. Some are spelling mistakes.  
+Some are broken logic. Some are things JavaScript doesn’t even allow.
+
+🟡 PREDICT  
+Before you even run it:  
+- What stands out as broken?  
+- What do you think will happen when you try it?
+- What do you think *should* happen?
+
+🟢 RUN  
+Try entering an age and clicking the button.
+
+🔵 INVESTIGATE  
+- Can you spot:  
+  - Syntax errors (e.g. `fuction`)  
+  - Invalid logic (e.g. `when`)  
+  - Missing `let`, missing parentheses  
+  - Typos like `doccument` and `getelementbyid`
+
+🟠 MODIFY  
+Fix the code step-by-step:
+- Use the console errors to guide you
+- Start by fixing things that stop the code from running at all
+- Add `Number(...)` to convert the age from a string
+
+🔴 MAKE  
+Once it works:
+- Add a new condition:
+  - Age > 100 → “You’re a legend!”
+  - Age < 0 → “Time traveller?”
+- Add your own message if the input is blank
+
+When you’re done, show someone else and see if they can break it!

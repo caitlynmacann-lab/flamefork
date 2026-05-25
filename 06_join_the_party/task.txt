@@ -1,0 +1,27 @@
+🟧 TASK 1 – PRIMM: Welcome Message
+
+This is your first PRIMM task. We’re working step-by-step to understand how input, output, and variables work together in JavaScript.
+
+🟡 PREDICT  
+What do you think will happen when you type your name and click the button?
+What part of the code do you think makes that happen?
+
+🟢 RUN  
+Go ahead and try it. Enter your name, hit the button, and see what shows up.
+
+🔵 INVESTIGATE  
+Take a look at the JavaScript.  
+- Which line is grabbing your name?
+- Which line changes the message on the page?
+
+🟠 MODIFY  
+Change the message so it says something like:  
+"Welcome, [your name], to the [your party name]!"  
+Add an emoji if you want. Try using `.toUpperCase()` to make it shouty.
+
+🔴 MAKE  
+Add a second input box for a role (e.g. "strategist", "volunteer").  
+Update the message to:  
+"Welcome, [name] the [role], to [party]!"
+
+When you’ve got it working, show a classmate and try theirs.

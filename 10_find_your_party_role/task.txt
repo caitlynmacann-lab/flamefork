@@ -1,0 +1,30 @@
+🟧 TASK 5 – PRIMM: Political Fit Matcher (with Radio + Checkbox)
+
+This task uses two input types you haven't worked with yet:
+- ✅ Radio buttons (pick ONE alignment)
+- ✅ Checkboxes (pick MULTIPLE issues)
+
+🟡 PREDICT  
+What will happen if you pick Progressive and tick Environment?  
+What if you tick everything?
+
+🟢 RUN  
+Try different combinations and see which role the system suggests.
+
+🔵 INVESTIGATE  
+- How is the selected radio button being read?
+- What does the loop over checkboxes do?
+- What is the `includes` function doing?
+- What are the || and the && symbols doing?
+
+🟠 MODIFY  
+- Add another issue (e.g. Housing) and link it to a new role.
+- Add a check that says “Too many issues selected!” if they tick more than 3 boxes.
+
+🔴 MAKE  
+Create your own version:
+- Radio: choose your political identity
+- Checkboxes: choose issues you care about
+- Output: a role, badge, or political codename that fits the combination
+
+When you're done, swap with a classmate and try to get all the outcomes!

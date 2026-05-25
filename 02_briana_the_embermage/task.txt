@@ -1,0 +1,18 @@
+HTML Markup Task
+
+You’ve been given a plain-text version of Brina’s case study from the Right to Rest campaign.
+Your job is to turn it into a structured, readable HTML page using correct tags.
+
+Use the following tags:
+<h1>–<h3>	    Headings for sections and titles
+<p>	          Separate thoughts and story paragraphs
+<ul>	        List Brina’s main issues
+<a>	          Link to external and internal pages
+<img>	        Add a campaign-related image
+<figure>	    Contain the image and add a caption
+<blockquote>	Quote Brina’s words
+<button>	    Let the user click to “Support” the campaign
+<em> <strong> Use for style/meaning
+
+If you complete this in good time, see if you can style it!
+Don't forget to link your CSS file in your HTML!

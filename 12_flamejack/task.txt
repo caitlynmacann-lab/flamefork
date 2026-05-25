@@ -1,0 +1,27 @@
+/*
+🟧 TASK 7 – PRIMM: FLAME Reactor Overdrive (while loop)
+
+Your job is to stabilise a mana reactor. The energy must reach at least 16, but not go over 21.
+
+🟡 PREDICT  
+What will happen if the random pulse keeps being high?  
+How many cycles will it take?
+
+🟢 RUN  
+Click “Stabilise Mana Flow” and watch the log.
+
+🔵 INVESTIGATE  
+- How is `energy` changing?
+
+🟠 MODIFY  
+- Make the charge amount smaller (e.g. 1–8 instead of 5–15)
+- Change the target range (e.g. success between 90–100)
+- Add a warning if it hits exactly 21: “Perfect Resonance!”
+
+🔴 MAKE  
+Design your own reactor challenge:
+- Let the user set the target
+- Use emoji to draw a power bar
+- Make it harder with smaller pulses
+
+Bonus: Track highest charge ever reached or let it explode dramatically!

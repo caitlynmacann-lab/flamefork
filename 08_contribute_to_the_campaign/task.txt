@@ -1,0 +1,40 @@
+🟧 TASK 3 – PRIMM: Campaign Donation Tracker (Give $10 / Refund $10)
+
+In this task, you'll build a simple campaign tracker that updates a donation total
+when a button is clicked. Every $10 matters!
+
+🟡 PREDICT  
+What will the total be after 3 clicks?
+What happens when you reach $50? $100?
+
+🟢 RUN  
+Click the “Give $10” button a few times and see what changes on the page.
+
+🔵 INVESTIGATE  
+- What variable is keeping track of the total?
+- Where is it being updated?
+- How does the code decide which message to show?
+
+🟠 MODIFY  
+- Add a **Refund $10** button that subtracts from the total.
+- Stop the total from going below $0.
+- If someone tries to refund when there’s nothing left, show a message:
+  “You can’t refund — the pot is empty!”
+
+
+🔴 MAKE  
+Create a **campaign progress tracker**:
+- Show a special message based on the current total:
+  $0–49: "📢 Just getting started"  
+  $50–99: "📣 Gaining momentum!"  
+  $100–149: "🔥 Almost at full strength"  
+  $150+: "🚀 Full campaign launch!"
+- Update this message automatically on every click.
+- Optional: Create a progress bar using emoji symbols.
+
+Bonus ideas:
+- Count how many times each button was clicked
+- Show a warning if funds drop too low (e.g. “We’re running out!”)
+- Display how much is needed to reach the next milestone
+
+Once yours is working, test someone else’s version and try to break it!

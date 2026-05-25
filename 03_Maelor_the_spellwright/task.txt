@@ -1,0 +1,20 @@
+🟧 PRIMM: Style Your Candidate
+
+PREDICT:
+What will the page look like? Where will it appear?
+
+RUN:
+Check that the image shows up and fits inside the card.
+
+INVESTIGATE:
+- What does max-width do?
+- What’s the difference between margin and padding?
+- What are the . and # doing?
+
+MODIFY:
+- Round the image corners more
+- Add a drop shadow
+- Try changing the image position
+
+MAKE:
+Create your own profile card with a new image and style.

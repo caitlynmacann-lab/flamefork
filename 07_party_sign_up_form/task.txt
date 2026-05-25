@@ -1,0 +1,37 @@
+🟧 TASK 2 – PRIMM: Sign-up Form with Name and Region
+
+You're continuing your JavaScript training — this time we're working with **multiple inputs**.
+
+We’ll follow the PRIMM model again:
+
+🟡 PREDICT  
+Look at the code in the JS panel. Don’t run it yet.  
+What do you think will happen when you type your name and region and click the button?  
+What do you think would happen if you left one of the fields blank?
+
+🟢 RUN  
+Try it out. Type your name and region and click “Join the Party”.  
+What happens? Is it what you expected?
+
+🔵 INVESTIGATE  
+Let’s pick apart the code:
+- What keyword is used to make a variable?
+- What is the = sign doing?
+- Which line grabs the name?
+- Which line grabs the region?
+- How is the final message put together?
+
+🟠 MODIFY  
+Now try improving how the message is displayed:
+- Add a line break between the name and region using `\\n`
+- Change the sentence format completely (e.g. “From [region], we welcome [name] to the movement!”)
+- If either input is left blank, show “Please enter both your name and region.”
+You will need an if block to do this.
+
+🔴 MAKE  
+Now extend it:
+1. Add a third input box for a campaign role (like “strategist” or “organiser”).
+2. Update the message to say:
+   “Welcome [name] from [region]. Your role is [role] in [Party Name].”
+
+When it works — test each other’s forms and make sure it handles empty inputs nicely!

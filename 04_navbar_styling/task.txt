@@ -1,0 +1,17 @@
+TASK – Style a Navigation Bar
+
+You are going to turn a plain list of links into a real website navigation bar using CSS.
+
+Your Tasks
+    Style the header with colours, fonts, padding, and alignment
+    Give the navigation bar its own background colour
+    Remove the bullet points from the list
+    Use Flexbox to make the links go across the page
+    Style the links (colour, size, underline)
+    Add a hover effect using :hover
+
+Challenges
+    Include the navbar on the other html pages
+    Make the links function by changing the href
+    Change the colour scheme
+    Add borders or shadows
