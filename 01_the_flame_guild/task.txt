@@ -4,14 +4,31 @@ Take a look at the image in this folder 'final.jpg'
 Let's see if we can make this with HTML
 
 You will need lots of tags to do this including
-<h1>
-<h2>
-<em>
-<a>
-<ul>
-<ol>
-<li>
-<img>
-<strong>
+<h1>  (heading1)
+<h2>  (heading2)
+<em>  (italic)
+<a>   (just text)
+<ul>  (unordered list?)
+<ol>  (ordered list)
+<li>  (list item)
+<img> (image)
+<strong> (bold)
 
 Extra for experts: See if you can style this site to make it look a bit nicer.
+
+GET THE WEBSITE OUTSIDE OF VSCODE:
+ctrl+shift+p
+"live preview"
+
+IMAGES:
+placecats or unsplash
+open image in new tab gives the address
+grab url
+<img> tag, do NOT close bracket yet
+source: src=
+put in url IN QUOTATION MARKS
+style="width: 200;"
+close tag >
+
+HELP:
+w3 schools

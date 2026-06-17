@@ -3,17 +3,30 @@
 PREDICT:
 What will the page look like? Where will it appear?
 
+I think for the heading it says the title and links the html to the css so it works? It also aligns it in the centre and makes it pretty colours
+Underneath that is an italic quote/tagline
+Then there's a profile card, whatever that means, and it's encased in a little box, I think? With the text being in the centre and the box and outline being different colours and all.
+There should be also an image with a border?
+Then, there is a list of Maelor's policies which is aligned to the left
+
 RUN:
 Check that the image shows up and fits inside the card.
 
+It doesn't show up because I don't have internet. Will probably check later, if I remember.
+
 INVESTIGATE:
 - What does max-width do?
+  It tells the profile box how big it should be, in this case 500px. 
 - What’s the difference between margin and padding?
+  ....How am I supposed to know that? I don't even know what either of them do
 - What are the . and # doing?
+  Why are we teaching ourselves everything? I don't know??? 
 
 MODIFY:
 - Round the image corners more
+  If that means changing border radius, then I did that
 - Add a drop shadow
+  I don't know how to do that
 - Try changing the image position
 
 MAKE:
