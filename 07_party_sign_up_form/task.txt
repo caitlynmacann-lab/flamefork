@@ -7,24 +7,34 @@ We’ll follow the PRIMM model again:
 🟡 PREDICT  
 Look at the code in the JS panel. Don’t run it yet.  
 What do you think will happen when you type your name and region and click the button?  
+   It will print a message with your name and region thanking you for joining the party
 What do you think would happen if you left one of the fields blank?
+   It will still run anyway with a blank field
 
 🟢 RUN  
 Try it out. Type your name and region and click “Join the Party”.  
 What happens? Is it what you expected?
+   Yeah
 
 🔵 INVESTIGATE  
 Let’s pick apart the code:
 - What keyword is used to make a variable?
+   let 
 - What is the = sign doing?
+   Assigning a value to a variable??
 - Which line grabs the name?
+   Line 1 (getElementById)
 - Which line grabs the region?
+   Line 2 in the same manner
 - How is the final message put together?
+   An f-string type thingy with these things `` and ${} with the variable in the brackets
 
 🟠 MODIFY  
 Now try improving how the message is displayed:
-- Add a line break between the name and region using `\\n`
+- Add a line break between the name and region using `\n`
+   What? Which name and region? The input things? That already has a line break
 - Change the sentence format completely (e.g. “From [region], we welcome [name] to the movement!”)
+   I don't wanna do that, it reads wrong
 - If either input is left blank, show “Please enter both your name and region.”
 You will need an if block to do this.
 

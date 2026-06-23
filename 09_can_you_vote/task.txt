@@ -11,18 +11,27 @@ Some are broken logic. Some are things JavaScript doesn’t even allow.
 🟡 PREDICT  
 Before you even run it:  
 - What stands out as broken?  
+    There are some places where things are capitalised wrong, spelled wrong, or missing
+    Is "when" correct if it's in an "if" block? It seems wrong and the program doesn't like it
 - What do you think will happen when you try it?
+    It won't run the things that are wrong? 
 - What do you think *should* happen?
+    It should check the user's input of their age and tell them if they're eligible to vote or pre-enrol depending on their age
 
 🟢 RUN  
 Try entering an age and clicking the button.
+    No output was given
 
 🔵 INVESTIGATE  
 - Can you spot:  
-  - Syntax errors (e.g. `fuction`)  
+  - Syntax errors (e.g. `fuction`) 
+      Yup
   - Invalid logic (e.g. `when`)  
+      Yup
   - Missing `let`, missing parentheses  
+      Yup
   - Typos like `doccument` and `getelementbyid`
+      Yup
 
 🟠 MODIFY  
 Fix the code step-by-step:

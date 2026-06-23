@@ -1,0 +1,11 @@
+body {
+    background: palegreen;
+}
+
+div {
+    color: seagreen;
+    box-shadow: 5px 5px 5px rgb(116, 240, 116);
+    max-width: 20rem;
+    padding: 1rem;
+    margin: 0 auto;
+}
